@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class Buster_rotation : MonoBehaviour
+public class Buster_movement : MonoBehaviour
 {
     public Transform objectToMove;
 

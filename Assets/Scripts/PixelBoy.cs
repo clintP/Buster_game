@@ -12,13 +12,7 @@ public class PixelBoy : MonoBehaviour
 
     protected void Start()
     {
-    	cam = GetComponent<Camera>();
-    	
-        if (!SystemInfo.supportsImageEffects)
-        {
-            enabled = false;
-            return;
-        }
+    	cam = GetComponent<Camera>();  	
     }
     void Update() {
 
