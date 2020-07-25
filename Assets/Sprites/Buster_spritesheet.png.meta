@@ -5,6 +5,18 @@ TextureImporter:
   - first:
       213: -1419323502803075378
     second: Buster_spritesheet_0
+  - first:
+      213: 7008950915038547360
+    second: Buster_spritesheet_0
+  - first:
+      213: -2622385707659409976
+    second: Buster_spritesheet_1
+  - first:
+      213: 6996193005788663371
+    second: Buster_spritesheet_2
+  - first:
+      213: 5521913214274414059
+    second: Buster_spritesheet_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -93,10 +105,10 @@ TextureImporter:
       name: Buster_spritesheet_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 11
-        width: 43
-        height: 40
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -104,8 +116,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece3f0a4bcc8d4ce0800000000000000
-      internalID: -1419323502803075378
+      spriteID: 0ad8503e8bbc44160800000000000000
+      internalID: 7008950915038547360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buster_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c546e6c71a6b9bd0800000000000000
+      internalID: -2622385707659409976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buster_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0b1aa878771160800000000000000
+      internalID: 6996193005788663371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buster_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ac51efc6c1ac40800000000000000
+      internalID: 5521913214274414059
       vertices: []
       indices: 
       edges: []
